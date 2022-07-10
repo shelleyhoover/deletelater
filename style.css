@@ -1,0 +1,19 @@
+#intro {
+	width: 500px;
+	margin: auto;
+	font-family: 'Pacifico', cursive;
+	color:  coral;
+} 
+
+#map {
+	width: 500px;
+	margin: auto;
+} 
+
+#info {
+	width: 500px;
+	margin: auto;
+	font-family: 'Courier New'; 
+}
+
+
